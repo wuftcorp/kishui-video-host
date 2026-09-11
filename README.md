@@ -1,1 +1,1 @@
-Test video host for kishui.com hero slider (jsDelivr CDN).
+kishui-video-host - Video assets for kishui.com, served via jsDelivr CDN. Cafe24 FTP blocks .mp4 uploads, so hero videos are hosted here. DO NOT DELETE - the live site loads these files directly. hero-orin-003.mp4 = home hero slider, slide 1. URL form: https://cdn.jsdelivr.net/gh/wuftcorp/kishui-video-host@main/FILENAME
